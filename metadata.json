@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Sinh Hoạt Tổ Chuyên Môn Điện Tử",
+  "description": "Sổ sinh hoạt tổ chuyên môn điện tử chuẩn sư phạm, thay thế sổ giấy với trợ lý AI chuyển ghi âm thành biên bản, tóm tắt ý kiến và đề xuất nhiệm vụ.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
